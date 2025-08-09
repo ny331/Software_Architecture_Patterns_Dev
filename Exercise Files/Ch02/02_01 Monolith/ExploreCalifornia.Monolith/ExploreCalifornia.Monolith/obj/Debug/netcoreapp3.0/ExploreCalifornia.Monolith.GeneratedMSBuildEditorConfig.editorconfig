@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = ExploreCalifornia.Monolith
+build_property.ProjectDir = C:\Code\Software_Architecture_Patterns_Dev\Exercise Files\Ch02\02_01 Monolith\ExploreCalifornia.Monolith\ExploreCalifornia.Monolith\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
